@@ -14,11 +14,13 @@ const facts = ["He was the last Beatle to learn to drive", "He was never a veget
 
 function johnLennonFacts (facts) {
   
-  let i = 0
+  let i = 0;
+  
   while (i < facts.length) {
     facts[i] += "!!!";
-    console.log(facts[i])
+    console.log(facts[i]);
     i++;
   }
   return facts;
 }
+
