@@ -27,5 +27,7 @@ function johnLennonFacts (facts) {
 function iLoveTheBeatles(Number) {
   blove = [];
   
-    
+    do {
+      blove.push("")
+    }
 }
