@@ -24,8 +24,8 @@ function johnLennonFacts (facts) {
   return facts;
 }
 
-function iLoveTheBeatles(number typeof Number) {
-  
-  
+function iLoveTheBeatles(Number) {
   blove = [];
+  
+    
 }
