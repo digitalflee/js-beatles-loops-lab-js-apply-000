@@ -17,7 +17,7 @@ function johnLennonFacts (facts) {
   let i = 0
   while (i < facts.length) {
     facts[i] += "!!!";
-    console.log(facts[i] + "!!!")
+    console.log(facts[i])
     i++;
   }
   return facts;
