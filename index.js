@@ -24,12 +24,11 @@ function johnLennonFacts (facts) {
   return facts;
 }
 
-function iLoveTheBeatles(Number) {
+function iLoveTheBeatles(number) {
  let blove = [];
-  let i = 0;
     do {
       blove.push('I love the Beatles!');
-      i++;
-    } while (i < 15);
+      number++;
+    } while (number < 15);
     return blove;
 }
