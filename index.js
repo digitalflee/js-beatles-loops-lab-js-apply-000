@@ -25,7 +25,7 @@ function johnLennonFacts (facts) {
 }
 
 function iLoveTheBeatles(Number) {
-  blove = [];
+ let blove = [];
   
     do {
       blove.push("I love the Beatles!")
