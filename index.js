@@ -12,4 +12,6 @@ function theBeatlesPlay (musicians, instruments) {
 
 const facts = [];
 
-johnLennonFacts = facts => {}
+function johnLennonFacts (facts) {
+  
+}
