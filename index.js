@@ -7,10 +7,11 @@ function theBeatlesPlay(musicians, instruments) {
   const play = [];
   
   for (let i = 0; i < musicians.length; i++) {
+      console.log(play[i]);
     for (let j = 0; j < instruments.length; j++) {
       if (musicians.length === instruments.length) {
       play.push(musicians[i] + " plays " + instruments[j]);
-      console.log(play[i]);
+      
   }
 }
 }
