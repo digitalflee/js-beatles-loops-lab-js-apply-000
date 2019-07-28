@@ -28,7 +28,8 @@ function iLoveTheBeatles(Number) {
  let blove = [];
   let i = 0;
     do {
-      blove.push("I love the Beatles!")
+      blove.push("I love the Beatles!");
+      i++;
     } while (i < 15);
     return blove;
 }
