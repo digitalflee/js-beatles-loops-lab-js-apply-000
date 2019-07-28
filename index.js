@@ -10,6 +10,7 @@ function theBeatlesPlay(musicians, instruments) {
     for (let j = 0; j < instruments.length; j++) {
       if (musicians.length === instruments.length) {
       play.push(musicians[i] + " plays " + instruments[j]);
+      console.log(play[i]);
   }
 }
 }
